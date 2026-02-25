@@ -21,3 +21,4 @@ print(p3.x)
 # ex 5: pass statement
 class Person:
   pass
+
